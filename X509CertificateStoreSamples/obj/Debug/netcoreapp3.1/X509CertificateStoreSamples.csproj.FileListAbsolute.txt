@@ -1,0 +1,13 @@
+D:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\bin\Debug\netcoreapp3.1\X509CertificateStoreSamples.exe
+d:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\bin\Debug\netcoreapp3.1\X509CertificateStoreSamples.deps.json
+d:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\bin\Debug\netcoreapp3.1\X509CertificateStoreSamples.runtimeconfig.json
+d:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\bin\Debug\netcoreapp3.1\X509CertificateStoreSamples.runtimeconfig.dev.json
+D:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\bin\Debug\netcoreapp3.1\X509CertificateStoreSamples.dll
+D:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\bin\Debug\netcoreapp3.1\X509CertificateStoreSamples.pdb
+D:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\obj\Debug\netcoreapp3.1\X509CertificateStoreSamples.csprojAssemblyReference.cache
+D:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\obj\Debug\netcoreapp3.1\X509CertificateStoreSamples.AssemblyInfoInputs.cache
+D:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\obj\Debug\netcoreapp3.1\X509CertificateStoreSamples.AssemblyInfo.cs
+D:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\obj\Debug\netcoreapp3.1\X509CertificateStoreSamples.csproj.CoreCompileInputs.cache
+D:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\obj\Debug\netcoreapp3.1\X509CertificateStoreSamples.dll
+D:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\obj\Debug\netcoreapp3.1\X509CertificateStoreSamples.pdb
+d:\Projects\Personals\X509-Tutorials\X509CertificateStoreSamples\obj\Debug\netcoreapp3.1\X509CertificateStoreSamples.genruntimeconfig.cache

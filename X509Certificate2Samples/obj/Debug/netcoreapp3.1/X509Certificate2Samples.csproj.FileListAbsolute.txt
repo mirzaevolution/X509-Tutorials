@@ -1,0 +1,13 @@
+D:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\bin\Debug\netcoreapp3.1\X509Certificate2Samples.exe
+d:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\bin\Debug\netcoreapp3.1\X509Certificate2Samples.deps.json
+d:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\bin\Debug\netcoreapp3.1\X509Certificate2Samples.runtimeconfig.json
+d:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\bin\Debug\netcoreapp3.1\X509Certificate2Samples.runtimeconfig.dev.json
+D:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\bin\Debug\netcoreapp3.1\X509Certificate2Samples.dll
+D:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\bin\Debug\netcoreapp3.1\X509Certificate2Samples.pdb
+D:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\obj\Debug\netcoreapp3.1\X509Certificate2Samples.csprojAssemblyReference.cache
+D:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\obj\Debug\netcoreapp3.1\X509Certificate2Samples.AssemblyInfoInputs.cache
+D:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\obj\Debug\netcoreapp3.1\X509Certificate2Samples.AssemblyInfo.cs
+D:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\obj\Debug\netcoreapp3.1\X509Certificate2Samples.csproj.CoreCompileInputs.cache
+D:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\obj\Debug\netcoreapp3.1\X509Certificate2Samples.dll
+D:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\obj\Debug\netcoreapp3.1\X509Certificate2Samples.pdb
+d:\Projects\Personals\X509-Tutorials\X509Certificate2Samples\obj\Debug\netcoreapp3.1\X509Certificate2Samples.genruntimeconfig.cache
