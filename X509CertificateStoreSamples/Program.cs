@@ -73,7 +73,7 @@ namespace X509CertificateStoreSamples
         static void Main(string[] args)
         {
             // LoadRootCALocalMachine();
-            SearchForCertificate(X509FindType.FindByIssuerName, "RootCert");
+            //SearchForCertificate(X509FindType.FindByIssuerName, "RootCert");
             SearchForCertificate(X509FindType.FindBySubjectName, "mirzaghulamrasyid.local");
             Console.ReadLine();
         }
